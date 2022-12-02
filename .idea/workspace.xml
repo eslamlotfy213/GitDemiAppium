@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb77349-197f-4693-8612-b195b50092cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LognPress_Scenario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MobileBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MobileBrowserBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SWipDemo_Scenario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ScrollDemo_Scenario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Wifi_Scenario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Wifi_Scenario_rotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dragandDropDemoScrnarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/eCommeerce_Tc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/eCommeerce_Tc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/eCommeerce_Tc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ApiDemos-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/General-Store.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eslam.Lotfy/IdeaProjects/untitled/src/test/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Eslam.Lotfy/IdeaProjects/untitled",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\untitled\src\test\resources" />
